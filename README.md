@@ -1,5 +1,5 @@
 # mary-b-portfolio
-
+This is a SPA portfolio page
 
 ## Acceptance Criteria
 
