@@ -1,18 +1,18 @@
-import React, { useState } from 'react';
-import Nav from './components/Nav';
-import About from './components/About';
-import Gallery from './components/Gallery';
-import ContactForm from './components/Contact';
+import React, { useState } from "react";
+import Nav from "./components/Nav";
+import About from "./components/About";
+import Projects from "./components/Projects";
+import ContactForm from "./components/Contact";
 
 function App() {
   const [categories] = useState([
     {
-      name: 'commercial',
-      description: 'Photos of grocery stores, food trucks, and other commercial projects',
+      name: "projects",
+      description:
+        "Photos of my web development projects",
     },
-    { name: 'portraits', description: 'Portraits of people in my life' },
-    { name: 'food', description: 'Delicious delicacies' },
-    { name: 'landscape', description: 'Fields, farmhouses, waterfalls, and the beauty of nature' },
+    { name: "resume", description: "This is my resume" },
+
   ]);
 
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
@@ -31,14 +31,20 @@ function App() {
       <main>
         {!contactSelected ? (
           <>
-            <Gallery currentCategory={currentCategory}></Gallery>
+            <Projects currentCategory={currentCategory}></Projects>
             <About></About>
           </>
         ) : (
           <ContactForm></ContactForm>
         )}
       </main>
+          
+
+    
+        <h2> Made by Mary B.  <a href="https://github.com/Maryjezek">GitHub</a><a href="https://www.linkedin.com/in/mary-braunger-9bb499a/">linkedIn</a> <a href="https://stackoverflow.com/users/16450959/mary-b">StackOverflow</a>       </h2>
+         
     </div>
+    
   );
 }
 
