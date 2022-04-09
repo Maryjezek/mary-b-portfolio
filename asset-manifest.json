@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/mary-b-portfolio/static/css/main.90e75332.chunk.css",
+    "main.js": "/mary-b-portfolio/static/js/main.db4baa7b.chunk.js",
+    "main.js.map": "/mary-b-portfolio/static/js/main.db4baa7b.chunk.js.map",
+    "runtime-main.js": "/mary-b-portfolio/static/js/runtime-main.0feccf7c.js",
+    "runtime-main.js.map": "/mary-b-portfolio/static/js/runtime-main.0feccf7c.js.map",
+    "static/js/2.d680124c.chunk.js": "/mary-b-portfolio/static/js/2.d680124c.chunk.js",
+    "static/js/2.d680124c.chunk.js.map": "/mary-b-portfolio/static/js/2.d680124c.chunk.js.map",
+    "static/js/3.8136abb8.chunk.js": "/mary-b-portfolio/static/js/3.8136abb8.chunk.js",
+    "static/js/3.8136abb8.chunk.js.map": "/mary-b-portfolio/static/js/3.8136abb8.chunk.js.map",
+    "index.html": "/mary-b-portfolio/index.html",
+    "static/css/main.90e75332.chunk.css.map": "/mary-b-portfolio/static/css/main.90e75332.chunk.css.map",
+    "static/js/2.d680124c.chunk.js.LICENSE.txt": "/mary-b-portfolio/static/js/2.d680124c.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/mary-b-portfolio/static/media/0.8877b785.jpg",
+    "static/media/0.8cdb5141.pdf": "/mary-b-portfolio/static/media/0.8cdb5141.pdf",
+    "static/media/0.d61c0950.png": "/mary-b-portfolio/static/media/0.d61c0950.png",
+    "static/media/1.jpg": "/mary-b-portfolio/static/media/1.ffe481f4.jpg",
+    "static/media/1.ccc3fb1a.gif": "/mary-b-portfolio/static/media/1.ccc3fb1a.gif",
+    "static/media/2.jpg": "/mary-b-portfolio/static/media/2.ce01b098.jpg",
+    "static/media/2.2d150cc0.gif": "/mary-b-portfolio/static/media/2.2d150cc0.gif",
+    "static/media/3.jpg": "/mary-b-portfolio/static/media/3.c095b24c.jpg",
+    "static/media/3.b902c8e2.gif": "/mary-b-portfolio/static/media/3.b902c8e2.gif",
+    "static/media/4.jpg": "/mary-b-portfolio/static/media/4.444be598.jpg",
+    "static/media/4.f188ee8b.gif": "/mary-b-portfolio/static/media/4.f188ee8b.gif",
+    "static/media/cover-image.348fcf38.jpg": "/mary-b-portfolio/static/media/cover-image.348fcf38.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0feccf7c.js",
+    "static/js/2.d680124c.chunk.js",
+    "static/css/main.90e75332.chunk.css",
+    "static/js/main.db4baa7b.chunk.js"
+  ]
+}
