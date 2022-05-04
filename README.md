@@ -33,6 +33,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 https://maryjezek.github.io/mary-b-portfolio/#about
 
 
+
+
 ![protfolio snip](https://user-images.githubusercontent.com/37507020/162583494-65c614b2-6340-430b-91ce-96e9ec997de5.gif)
 
 
